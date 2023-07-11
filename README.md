@@ -27,4 +27,5 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - No need to explicitely input for numbers in an array,"Randomise" button makes it done
   for you with an ease of a single click.
 - Stop sorting at any time.
-- Simple clean UI makes it easy for one to operate.  
+- Simple clean UI makes it easy for one to operate.
+- Dark Mode UI. 
