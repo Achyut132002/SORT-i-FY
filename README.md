@@ -16,7 +16,7 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 
 ## How to use
 
-- Hosted on  [website]().
+- Hosted on  [website](https://sortifyvisualiser.netlify.app/).
 - Click on the algorithm you want to visualize.
 - Adjust speed and size of the array.
 
