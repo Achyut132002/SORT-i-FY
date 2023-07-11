@@ -1,8 +1,5 @@
 # SORT-i-FY
-A sorting visualiser demonstrating various sorting algorithms like bubble sort, selection sort , heap sort, merge sort, quick sort, insertion sort
-
-# #Sorting-Visualizer
-
+A sorting visualiser demonstrating various sorting algorithms like bubble sort, selection sort , heap sort, merge sort, quick sort, insertion sort.
 A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
 
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
@@ -12,7 +9,10 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-![sorting_process](https://user-images.githubusercontent.com/55011564/125393471-a1f23680-e3c5-11eb-887e-0e908b0656b1.png)
+# Screenshot of the project-
+
+<img width="956" alt="image" src="https://github.com/Achyut132002/SORT-i-FY/assets/82725898/28fc2a31-7e93-4157-8335-d548d3d0defc">
+
 
 ## How to use
 
